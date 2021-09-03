@@ -4,33 +4,6 @@
   
     
     <entry>
-      <title>Java面向对象程序设计</title>
-      <link href="/2021/07/10/java/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1Java/"/>
-      <url>/2021/07/10/java/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1Java/</url>
-      
-        <content type="html"><![CDATA[<h1 id="00-前言"><a href="#00-前言" class="headerlink" title="00 前言"></a>00 前言</h1><p>教材为《Java面向对象程序设计(第3版)》，耿祥义、张跃平主编</p><p>因为大三的培养计划要学Java，不然都不打算学了，之前学过一会，但是忘的差不多了，so再复习一遍吧（~复习~，重学√）</p><blockquote><p>C++永远是最强的语言！！！🧐</p></blockquote><h1 id="01-Java入门"><a href="#01-Java入门" class="headerlink" title="01 Java入门"></a>01 Java入门</h1><ul><li>Java之父——James Gosling，于1995年5月Sum公司发布第一版sdk1.0a2</li><li>Java源文件中如果有多个类，至少和至多有一个类是public类，并且public类必须与文件名同名</li><li>应用程序必须有主类，但是源文件可以没主类，类似于C/C++中的用法</li><li>编译时，每个类对应一个字节码文件</li></ul><h1 id="02-标识符"><a href="#02-标识符" class="headerlink" title="02 标识符"></a>02 标识符</h1><h2 id="2-1-标识符"><a href="#2-1-标识符" class="headerlink" title="2.1 标识符"></a>2.1 标识符</h2><h3 id="2-1-1-标识符"><a href="#2-1-1-标识符" class="headerlink" title="2.1.1 标识符"></a>2.1.1 标识符</h3><p>标识符语法规则基本和C/C++一致</p><ul><li>标识符由字母、下划线、美元符号和数字组成，长度不受限制</li><li>标识符的第一个字符不能是数字字符</li><li>表示字符不能是关键字</li><li>标识符不能是true、false和null（尽管true、flas额和null不是java关键字）</li></ul><h3 id="2-1-2-关键字"><a href="#2-1-2-关键字" class="headerlink" title="2.1.2 关键字"></a>2.1.2 关键字</h3><p>Java包含以下关键字</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">abstract</span>、<span class="keyword">assert</span>、<span class="keyword">boolean</span>、<span class="keyword">break</span>、<span class="keyword">byte</span>、<span class="keyword">case</span>、<span class="keyword">catch</span>、<span class="keyword">char</span>、<span class="class"><span class="keyword">class</span>、<span class="title">const</span>、<span class="title">continue</span>、<span class="title">default</span>、<span class="title">do</span>、<span class="title">double</span>、<span class="title">else</span>、<span class="title">enum</span>、<span class="keyword">extends</span>、<span class="title">final</span>、<span class="title">finally</span>、<span class="title">flout</span>、<span class="title">for</span>、<span class="title">goto</span>、<span class="title">if</span>、<span class="keyword">implements</span>、<span class="title">import</span>、<span class="title">instanceof</span>、<span class="title">int</span>、<span class="title">interface</span>、<span class="title">long</span>、<span class="title">native</span>、<span class="title">new</span>、<span class="title">package</span>、<span class="title">private</span>、<span class="title">protected</span>、<span class="title">public</span>、<span class="title">return</span>、<span class="title">short</span>、<span class="title">static</span>、<span class="title">strictfp</span>、<span class="title">super</span>、<span class="title">switch</span>、<span class="title">synchronized</span>、<span class="title">this</span>、<span class="title">throw</span>、<span class="title">throws</span>、<span class="title">transient</span>、<span class="title">try</span>、<span class="title">void</span>、<span class="title">volatile</span>、<span class="title">while</span></span></span><br></pre></td></tr></table></figure><p>其中assert是JDK1.4增加的关键字、enum是JDK1.5增加的关键字</p><h2 id="2-2-基本数据类型"><a href="#2-2-基本数据类型" class="headerlink" title="2.2 基本数据类型"></a>2.2 基本数据类型</h2><p>8种</p><ul><li>逻辑类型：boolean</li><li>整数类型：byte、short、int、long</li><li>字符类型：char</li><li>浮点类型：float、double</li></ul>]]></content>
-      
-      
-      <categories>
-          
-          <category> Java </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 学习 </tag>
-            
-            <tag> Java </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Git常用命令</title>
       <link href="/2021/06/27/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
       <url>/2021/06/27/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
@@ -732,9 +705,9 @@
             
             <tag> Hexo </tag>
             
-            <tag> Next </tag>
-            
             <tag> 生活 </tag>
+            
+            <tag> Next </tag>
             
         </tags>
       
