@@ -361,13 +361,13 @@
       
         <tags>
             
-            <tag> 学习 </tag>
-            
-            <tag> 生活 </tag>
-            
             <tag> 深度学习 </tag>
             
+            <tag> 学习 </tag>
+            
             <tag> python </tag>
+            
+            <tag> 生活 </tag>
             
             <tag> YOLOv3 </tag>
             
@@ -446,9 +446,9 @@
       
         <tags>
             
-            <tag> Python </tag>
-            
             <tag> 深度学习 </tag>
+            
+            <tag> Python </tag>
             
             <tag> Pandas </tag>
             
@@ -475,9 +475,9 @@
       
         <tags>
             
-            <tag> Python </tag>
-            
             <tag> 深度学习 </tag>
+            
+            <tag> Python </tag>
             
             <tag> Numpy </tag>
             
@@ -670,11 +670,11 @@
       
         <tags>
             
+            <tag> 深度学习 </tag>
+            
             <tag> 学习 </tag>
             
             <tag> Python </tag>
-            
-            <tag> 深度学习 </tag>
             
             <tag> RoboMaster </tag>
             
